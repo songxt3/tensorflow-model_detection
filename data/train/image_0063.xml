@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>image_0063.png</filename>
+	<path>/Users/soukouten/Desktop/TF_learning/png/image_0063.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flower1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>11</ymin>
+			<xmax>495</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>
